@@ -1,5 +1,5 @@
 # qc
-this script compiles metrics that is important for cnvs
+this script compiles metrics that are important for CNVqc
 
 ## DEPENDENCIES
 dependency.yml
