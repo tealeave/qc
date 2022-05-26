@@ -1,5 +1,5 @@
 # qc
-this script compiles metrics that are important for CNVqc
+this script compiles metrics that are important for CNVqc with platfrom and date range information
 
 ## DEPENDENCIES
 dependency.yml
